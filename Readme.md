@@ -64,10 +64,10 @@ I use GitHub to document my projects, experiments, and continuous learning journ
 
 # 🛠️ Technical Skills
 
-💻 Programming Languages: Python, MATLAB, C basics, SQL *(Learning)*
-📚 Libraries & Frameworks: NumPy, SciPy, OpenCV, scikit-image, Matplotlib, PyTorch *(Learning)*
-🎯 Domains: Image Processing, Computer Vision, Remote Sensing, SAR Imaging, Radar Signal Processing, Machine Learning, Deep Learning
-🔧 Tools: Git & GitHub, MATLAB, Visual Studio Code, Jupyter Notebook
+- 💻 Programming Languages: Python, MATLAB, C basics, SQL *(Learning)*
+- 📚 Libraries & Frameworks: NumPy, SciPy, OpenCV, scikit-image, Matplotlib, PyTorch *(Learning)*
+- 🎯 Domains: Image Processing, Computer Vision, Remote Sensing, SAR Imaging, Radar Signal Processing, Machine Learning, Deep Learning
+- 🔧 Tools: Git & GitHub, MATLAB, Visual Studio Code, Jupyter Notebook
 
 ---
 
