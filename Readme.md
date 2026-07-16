@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Kavya
 
-## 🚀 About Me
-
 I'm an **R&D Engineer** with **5+ years of experience** in **Image Processing, Remote Sensing, and Computer Vision**.
 
 I enjoy building intelligent solutions using **Machine Learning**, **Deep Learning**, and **Radar Signal Processing**, with a growing focus on **Synthetic Aperture Radar (SAR)** and **Multi-Sensor Fusion**.
