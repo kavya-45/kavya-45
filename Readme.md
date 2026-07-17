@@ -8,7 +8,7 @@ I use GitHub to document my projects, experiments, and continuous learning journ
 
 ---
 
-##  About Me
+## 👋 About Me
 
 -  **Education:** B.Tech in Electronics and Communication Engineering
 -  **Experience:** 5+ Years in Research & Development
@@ -71,7 +71,7 @@ I use GitHub to document my projects, experiments, and continuous learning journ
 
 # 🔧 Featured Projects
 
-##  SAR Ground Moving Target Indication (SAR-GMTI)
+## 🚀 SAR Ground Moving Target Indication (SAR-GMTI)
 
 Developing algorithms for moving target detection and velocity estimation from SAR data using Doppler processing techniques.
 
