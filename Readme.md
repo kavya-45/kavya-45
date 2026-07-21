@@ -92,6 +92,7 @@ Designed image analysis techniques to detect digital image manipulation using MA
 ## 📡 Image Registration
 
 Working on registration techniques for SAR and optical imagery using feature-based and template-matching approaches.
+
 ---
 ## ✨ Camouflage detection
 Developed a deep learning-based semantic segmentation framework for camouflage detection using the MUDCAD-X multispectral dataset. Implemented color-mask mapping to convert multi-class annotations into segmentation masks and trained a DeepLabV3 model to accurately identify camouflaged objects. Performed dataset preprocessing, augmentation, model training, evaluation, and visualization of segmented camouflage regions.
